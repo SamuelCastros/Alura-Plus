@@ -1,1 +1,1 @@
-Projeot realiado por Samuel através do curso HTML e CSS da Alura
+Projeto realiado por Samuel através do curso HTML e CSS da Alura
